@@ -10,7 +10,7 @@ Welcome to Michikatsu! By using the Michikatsu Discord bot, you agree to comply 
 Michikatsu is a multi-utility Discord bot designed to enhance your Discord experience with various features, including moderation commands and more functionalities coming soon.
 
 2. User Eligibility
-To use Michikatsu, you must have a valid Discord account, own or manage a Discord server, and have the ability to add the bot to your server. No additional eligibility requirements apply.
+To use Michikatsu, you must have a valid Discord account, own or manage a Discord server, and have the ability to add the bot to your server. You must also be in complience with discords TOS, meaning you must be at least 13+ to use our bot. No additional eligibility requirements apply.
 
 3. Data Collection
 Currently, Michikatsu does not collect any personal data from users. We respect your privacy and will not store any user information.
