@@ -1,4 +1,4 @@
-# Privacy Policy for Michikatsu Discord Bot
+#  Michikatsu Privacy Policy
 
 Last Updated: 2024-10-16
 
