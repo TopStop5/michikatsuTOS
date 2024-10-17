@@ -1,9 +1,6 @@
+# Privacy Policy for Michikatsu Discord Bot
 
-Thank you for the details! Based on your responses, here’s a draft for the Privacy Policy for your Discord bot, Michikatsu:
-
-Privacy Policy for Michikatsu Discord Bot
-
-Last Updated: [Insert Date]
+Last Updated: 2024-10-16
 
 This Privacy Policy outlines how the Michikatsu Discord bot (referred to as "we," "us," or "our") handles user information. By using Michikatsu, you agree to the terms outlined in this policy.
 
