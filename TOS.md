@@ -2,7 +2,7 @@
 
 Terms of Service for Michikatsu Discord Bot
 
-Last Updated: 2024/10/16
+Last Updated: 2024/10/21
 
 Welcome to Michikatsu! By using the Michikatsu Discord bot, you agree to comply with and be bound by the following terms and conditions. Please read them carefully.
 
